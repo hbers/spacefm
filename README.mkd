@@ -1,0 +1,12 @@
+**SpaceFM Downloads**
+
+This branch contains official release source and distribution packages.
+
+To download a file, click on the filename, then click View Raw.
+**DO NOT right click** on a link, as this will save the web page, not the file.
+
+
+These same packages are also available at [SourceForge](http://sourceforge.net/projects/spacefm/files/)
+
+Also see [package authentication instructions](http://ignorantguru.github.com/spacefm/spacefm.SHA256.txt)
+
