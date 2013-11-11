@@ -1,0 +1,9 @@
+autom4te.cache/
+Makefile
+config.log
+config.status
+libtool
+data/
+po/
+src/
+*.o
